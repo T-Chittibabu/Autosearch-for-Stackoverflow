@@ -1,4 +1,4 @@
-# Autosearch-for-Stackoverflow-master
+# Autosearch-for-Stackoverflow
 A GUI application developed using Python & Tkinter Module which automatically searches for the error solutions for the selected file on StackOverflow using Stack Exchange API. This is only supported for the Python for now.
 
 ## Features
